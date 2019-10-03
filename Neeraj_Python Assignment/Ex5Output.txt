@@ -1,0 +1,26 @@
+C:\Users\neera\OneDrive\Desktop\Neeraj_Python Assignment> python Exercise5.py 
+Aircraft #  1  has been istantiated
+Initial X-Coord: 64
+Initial X-Coord: 18
+Final X-Coord: 3
+Final X-Coord: 22
+Aircraft #  2  has been istantiated
+Initial X-Coord: 27
+Initial X-Coord: 77
+Final X-Coord: 89
+Final X-Coord: 78
+Aircraft #  3  has been istantiated
+Initial X-Coord: 95
+Initial X-Coord: 16
+Final X-Coord: 36
+Final X-Coord: 29
+Aircraft #  4  has been istantiated
+Initial X-Coord: 19
+Initial X-Coord: 13
+Final X-Coord: 54
+Final X-Coord: 14
+Aircraft #  5  has been istantiated
+Initial X-Coord: 98
+Initial X-Coord: 32
+Final X-Coord: 42
+Final X-Coord: 7
